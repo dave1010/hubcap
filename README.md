@@ -12,6 +12,9 @@ autonomous agent.
 
 As the code is so simple, it serves as a quick intro to how autonomous agents work and how to interact with LLMs.
 
+Check out my article **[Amazingly Alarming Autonomous AI Agents
+](https://medium.com/@dave1010/amazingly-alarming-autonomous-ai-agents-62f8a785e4d8)** for an intro to AI agents and details about how Hubcap works.
+
 ## Installation
 
     pip install llm
