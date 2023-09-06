@@ -15,6 +15,8 @@ As the code is so simple, it serves as a quick intro to how autonomous agents wo
 Check out my article **[Amazingly Alarming Autonomous AI Agents
 ](https://medium.com/@dave1010/amazingly-alarming-autonomous-ai-agents-62f8a785e4d8)** for an intro to AI agents and details about how Hubcap works.
 
+Hubcap has also been [ported to Python](https://gist.github.com/jefftriplett/d5b1c10f0fe2a2e2afa2a6658143c896) by @efftriplett.
+
 ## Installation
 
     pip install llm
